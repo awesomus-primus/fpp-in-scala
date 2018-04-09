@@ -2,3 +2,9 @@
 .idea/*
 *.class
 *.log
+target
+.target
+project/
+project/target
+project/project
+cache
