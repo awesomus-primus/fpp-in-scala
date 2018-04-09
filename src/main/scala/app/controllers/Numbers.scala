@@ -24,6 +24,4 @@ object Numbers {
 
   def addSeparators(n: Long): Unit = addSeparators(n, checkLength(n))
 
-  println("Le troll")
-
 }

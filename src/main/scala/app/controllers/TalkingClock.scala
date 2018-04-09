@@ -4,7 +4,7 @@ import scala.io.StdIn
 
 object TalkingClock {
 
-//  Daily challenge 321: https://www.reddit.com/r/dailyprogrammer/comments/6jr76h/20170627_challenge_321_easy_talking_clock/
+  //  Daily challenge 321: https://www.reddit.com/r/dailyprogrammer
 
   val time: String = StdIn.readLine("The time is currently: ")
 
