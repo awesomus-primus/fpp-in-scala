@@ -1,0 +1,43 @@
+[0m[[0m[31merror[0m] [0m[0mD:\le-wild-coding\fpp-in-scala\src\main\scala\app\Main.scala:7:3: not found: value Numbers[0m
+[0m[[0m[31merror[0m] [0m[0m  Numbers.[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\le-wild-coding\fpp-in-scala\src\main\scala\app\Main.scala:8:13: not found: value thds[0m
+[0m[[0m[31merror[0m] [0m[0m  addFormat(thds)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\le-wild-coding\fpp-in-scala\src\main\scala\app\Main.scala:10:3: not found: value addCommas[0m
+[0m[[0m[31merror[0m] [0m[0m  addCommas(mlns)[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\le-wild-coding\fpp-in-scala\src\main\scala\app\Main.scala:10:13: not found: value mlns[0m
+[0m[[0m[31merror[0m] [0m[0m  addCommas(mlns)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\le-wild-coding\fpp-in-scala\src\main\scala\app\Main.scala:11:3: not found: value addFormat[0m
+[0m[[0m[31merror[0m] [0m[0m  addFormat(mlns)[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\le-wild-coding\fpp-in-scala\src\main\scala\app\Main.scala:11:13: not found: value mlns[0m
+[0m[[0m[31merror[0m] [0m[0m  addFormat(mlns)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\le-wild-coding\fpp-in-scala\src\main\scala\app\Main.scala:13:3: not found: value addCommas[0m
+[0m[[0m[31merror[0m] [0m[0m  addCommas(blns)[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\le-wild-coding\fpp-in-scala\src\main\scala\app\Main.scala:13:13: not found: value blns[0m
+[0m[[0m[31merror[0m] [0m[0m  addCommas(blns)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\le-wild-coding\fpp-in-scala\src\main\scala\app\Main.scala:14:3: not found: value addFormat[0m
+[0m[[0m[31merror[0m] [0m[0m  addFormat(blns)[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\le-wild-coding\fpp-in-scala\src\main\scala\app\Main.scala:14:13: not found: value blns[0m
+[0m[[0m[31merror[0m] [0m[0m  addFormat(blns)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\le-wild-coding\fpp-in-scala\src\main\scala\app\Main.scala:16:3: not found: value addCommas[0m
+[0m[[0m[31merror[0m] [0m[0m  addCommas(tlns)[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\le-wild-coding\fpp-in-scala\src\main\scala\app\Main.scala:16:13: not found: value tlns[0m
+[0m[[0m[31merror[0m] [0m[0m  addCommas(tlns)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\le-wild-coding\fpp-in-scala\src\main\scala\app\Main.scala:17:3: not found: value addFormat[0m
+[0m[[0m[31merror[0m] [0m[0m  addFormat(tlns)[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\le-wild-coding\fpp-in-scala\src\main\scala\app\Main.scala:17:13: not found: value tlns[0m
+[0m[[0m[31merror[0m] [0m[0m  addFormat(tlns)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m14 errors found[0m
